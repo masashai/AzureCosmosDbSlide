@@ -1,8 +1,7 @@
-# AzureCosmosDbSlide
-### こんにちは！
+# Azure Cosmos DB
+---
 
-
-これはサンプルのスライド資料です。
+### 1枚目のスライド
 
 
 ---
