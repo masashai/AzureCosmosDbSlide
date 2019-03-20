@@ -1,11 +1,13 @@
 ## Azure Cosmos DB
 ---
 ### 本資料の目的
-以下の内容について知ってもらうこと。今後のプロジェクト等でDBを選定する上でAzure Cosmos DBが選択肢のひとつに挙がれば幸い
+以下の内容について知ってもらうこと
 
 - Azure Cosmos DBの特徴
 - Azure Cosmos DBのユースケース
 - Azure Cosmos DBの実装
+
+今後のプロジェクト等でDBを選定する上でAzure Cosmos DBが選択肢のひとつに挙がれば幸い
 
 ---
 ### 目次
