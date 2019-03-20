@@ -1,12 +1,11 @@
 ## Azure Cosmos DB
 ---
-### Asure Cosmos DBの
 
-- 特徴
+
+- ### Asure Cosmos DB
 - ユースケース
-- 操作
+- 実装
 
-について紹介
 ---
 ### 目次
 #### 指定したコードだけハイライト表示
