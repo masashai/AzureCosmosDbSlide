@@ -1,10 +1,10 @@
 ## Azure Cosmos DB
 ---
+### アジェンダ
 
-
-- ### Asure Cosmos DB
-- ユースケース
-- 実装
+- Azure Cosmos DBの特徴
+- Azure Cosmos DBのユースケース
+- Azure Cosmos DBの実装
 
 ---
 ### 目次
