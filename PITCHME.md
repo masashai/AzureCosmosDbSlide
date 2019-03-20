@@ -1,6 +1,7 @@
 ## Azure Cosmos DB
 ---
-### アジェンダ
+### 本資料の目的
+以下の内容について知ってもらうこと。今後のプロジェクト等でDBを選定する上でAzure Cosmos DBが選択肢のひとつに挙がれば幸い
 
 - Azure Cosmos DBの特徴
 - Azure Cosmos DBのユースケース
