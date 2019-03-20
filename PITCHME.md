@@ -1,4 +1,4 @@
-# Azure Cosmos DB概要
+## Azure Cosmos DB概要
 ---
 
 ### 1枚目のスライド
