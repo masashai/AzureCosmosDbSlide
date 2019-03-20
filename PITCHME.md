@@ -7,8 +7,6 @@
 - Azure Cosmos DBのユースケース
 - Azure Cosmos DBの実装
 
-今後のプロジェクト等でDBを選定する上でAzure Cosmos DBが選択肢のひとつに挙がれば幸い
-
 ---
 ### 目次
 #### 指定したコードだけハイライト表示
